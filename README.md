@@ -1,10 +1,14 @@
 VPASS6
 ======
 There are two folders
+
 1. Laser Cut
-  -These are files that will need to be Laser Cut out of Delrin or CNC'd out of some other material.
+ 
+ -These are files that will need to be Laser Cut out of Delrin or CNC'd out of some other material.
+
 2. Printed
-  -These files will need to be 3D printed or machined some how.  They may need to be modified to fit your hardware.
+ 
+ -These files will need to be 3D printed or machined some how.  They may need to be modified to fit your hardware.
 
 This has not yet been assembled though hopefully that is to change.
 
