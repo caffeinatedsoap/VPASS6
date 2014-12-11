@@ -14,3 +14,5 @@ This has not yet been assembled though hopefully that is to change.
 
 End result should be a 800mm Hexacopter with 20mm diameter carbon fiber arms with two battery mounts, a flight 
 controller mount and a camera mount.
+
+Created with Solidworks 2013
